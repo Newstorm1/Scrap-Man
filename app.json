@@ -68,13 +68,4 @@
     "IN_VALID_PHNO_PVDED": {
       "description": "a message that will be shown if `get_phno_imn_ges` logic, breaks",
       "required": false
-    }
-  },
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "eco"
-    }
-  },
-  "stack": "heroku-22"
-}
+     }
